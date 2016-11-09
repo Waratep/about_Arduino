@@ -9,6 +9,7 @@ int l_power = 0;
 int r_power = 0;
 int x = 0;
 
+// test
 void setup()
 {
   pinMode(3, OUTPUT);
